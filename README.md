@@ -1,2 +1,2 @@
 # riegglab
-## Transitions leicht gemacht
+## Transitions made easy
